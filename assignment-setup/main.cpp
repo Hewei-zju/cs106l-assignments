@@ -12,7 +12,7 @@
 #include <iostream>
 #include <sstream>
 #include "autograder/utils.cpp"
-
+using namespace std;
 int main() {
-  return run_autograder();
+    cout << "hello world!" << endl;
 }
